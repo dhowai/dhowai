@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on expanding my knowledge as a developer.
+- 🌱 I’m currently learning Node.js with the express Framework.
+- 📫 How to reach me: [email](dhowai.dev@gmail.com) [LinkedIn](https://www.linkedin.com/in/daryl-howai-934444211/)
+- ⚡ Fun fact: I enjoy playing the guitar, gaming and 3D printing in my spare time.
+
 <!--
 **dhowai/dhowai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
