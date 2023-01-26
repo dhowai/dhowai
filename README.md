@@ -1,8 +1,8 @@
-### Hi there and welcome to my Github Page 👋
+### Hello there 👋, my name is Daryl Howai and welcome to my Github Page 
 
-- 🔭 I’m currently working on expanding my knowledge as a developer.
+- 🔭 I'm currently in the process of applying for my first role in Web Development.
 - 🌱 I’m currently learning Node.js with the express Framework.
-- 📫 How to reach me: [email](dhowai.dev@gmail.com) [LinkedIn](https://www.linkedin.com/in/daryl-howai-934444211/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daryl-howai-934444211/){:target="_blank"}
 - ⚡ Fun fact: I enjoy playing the guitar, gaming and 3D printing in my spare time.
 
 <!--
