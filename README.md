@@ -40,8 +40,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/daryl-howai-934444211/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-<a href="malito:dhowai.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dhowai@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/daryl-howai-934444211/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+<address> <a href="malito:dhowai.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dhowai@gmail.com-blue?style=flat-square&logo=gmail"></a></address>
 </p>
 
 
