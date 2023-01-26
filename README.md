@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently in the process of applying for my first role in Web Development.
 - 🌱 I’m currently learning Node.js with the express Framework.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daryl-howai-934444211/){:target="_blank" rel="noopener"}
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daryl-howai-934444211/)
 - ⚡ Fun fact: I enjoy playing the guitar, gaming and 3D printing in my spare time.
 
 <!--
