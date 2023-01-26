@@ -31,8 +31,8 @@
 <br/>
 
 <a href="https://github.com/dhowai">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhowai&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhowai&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhowai&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhowai&true&theme=dark&layout=compact" />
 </a>
 
 <br/>
