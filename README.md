@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there and welcome to my Github Page 👋
 
 - 🔭 I’m currently working on expanding my knowledge as a developer.
 - 🌱 I’m currently learning Node.js with the express Framework.
