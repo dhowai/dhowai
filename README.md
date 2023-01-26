@@ -1,12 +1,11 @@
-<h2> Hello there 👋, my name is Daryl Howai and welcome to my Github Page </h2>
+<h2> Hello there! My name is Daryl :metal: </h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> :space_invader: &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🔭 &nbsp; Currently in the process of applying for my first role in Web Development.
 - 🎓 &nbsp; Diploma in Full Stack Software Development
-- 🔭 I'm currently in the process of applying for my first role in Web Development.
-- 🌱 I’m currently learning Node.js with the express Framework.
-- ⚡ I enjoy playing the guitar, gaming and 3D printing in my spare time.
+- 🌱 &nbsp; Currently learning Node.js with the express Framework.
+- ⚡ &nbsp; I enjoy playing the :guitar:, :video_game: and 3D printing in my spare time.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -16,6 +15,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Django](https://img.shields.io/badge/-django-333333?style=flat&logo=django)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
